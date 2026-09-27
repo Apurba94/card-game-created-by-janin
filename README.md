@@ -71,3 +71,7 @@ The transport uses short polling and in-memory rooms; it works while users are c
 No credentials or release signing keys are included in this repository. The
 Android `debug.keystore` is the standard public debug key, used only for
 development builds.
+
+## Credits
+
+Created by **Janin A Apurba**. Released under the [MIT License](LICENSE).
